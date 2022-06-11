@@ -1,0 +1,17 @@
+@import './variables';
+@import './mixins';
+@import './base';
+
+@import '../components/header/header';
+@import '../components/button/button';
+@import '../components/heroSlider/hero-slider';
+@import '../components/footer/footer';
+@import '../components/section/section';
+@import '../components/policyCard/policyCard';
+@import '../components/productCard/productCard';
+
+@import '../pages/catalog/catalog';
+@import '../components/checkbox/checkbox';
+@import '../components/productview/productview';
+@import '../pages/product/product';
+@import '../pages/cart/cart';
